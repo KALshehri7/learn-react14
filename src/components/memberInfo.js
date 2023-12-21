@@ -1,0 +1,55 @@
+const memberInfo = [
+  {
+    id: 1,
+    img: '/images/5.avif',
+    name: 'Ahmed Khalid',
+    position: 'Team One',
+    phone: '+49 98765432',
+    email: 'ahmed.khalid@team.com',
+  },
+  {
+    id: 2,
+    img: '/images/2.png',
+    name: 'Fatima Abdullah',
+    position: 'Team Two',
+    phone: '+49 98765432',
+    email: 'fatima.abdullah@team.com',
+  },
+  {
+    id: 3,
+    img: '/images/3.jpeg',
+    name: 'Youssef Hassan',
+    position: 'Team Three',
+    phone: '+49 98765432',
+    email: 'youssef.hassan@team.com',
+    website: 'youssefhassan.com',
+  },
+  {
+    id: 4,
+    img: '/images/4.jpg',
+    name: 'Layla Amin',
+    position: 'Team Four',
+    phone: '+49 98765432',
+    email: 'layla.amin@team.com',
+  },
+  {
+    id: 5,
+    img: '/images/1.jpeg',
+    name: 'Khaled Mansour',
+    position: 'Team Five',
+    phone: '+49 98765432',
+    email: 'khaled.mansour@team.com',
+    website: 'khaledmansour.com',
+  },
+  {
+    id: 6,
+    img: '/images/6.jpg',
+    name: 'Nadia Ahmed',
+    position: 'Team Six',
+    phone: '+49 98765432',
+    email: 'nadia.ahmed@team.com',
+    website: 'nadiaahmed.com',
+  },
+];
+
+export default memberInfo;
